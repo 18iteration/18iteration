@@ -6,6 +6,7 @@
  Low-Level-Workings<br>
  Crypto-Forks with crazy functionalities<br>
  Raspberry Pi projets<br>
+ Astrophysics<br>
 <br>
 🌱 I’m currently learning ...<br>
 <details>All of the above</details>
