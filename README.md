@@ -5,7 +5,7 @@
  Pentesting<br>
  Low-Level-Workings<br>
  Crypto-Forks with crazy functionalities<br>
- Raspberry Pi projets<br>
+ Raspberry Pi projects<br>
  Astrophysics<br>
 <br>
 🌱 I’m currently learning ...<br>
